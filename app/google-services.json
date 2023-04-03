@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542176333014",
+    "project_id": "maulik-22a3d",
+    "storage_bucket": "maulik-22a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542176333014:android:01a01ef1e6d9cb25d10d77",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthenticationusingemailandpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542176333014-qpf1h9213bqubkcej09b75ddq25c10ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauthenticationusingemailandpassword",
+            "certificate_hash": "1270065b13308b183be252594e32e41badc5654d"
+          }
+        },
+        {
+          "client_id": "542176333014-32q2upabnm7nf2qh4jsgdn1ku15acv8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMaRdbsx14tBSHuIlG-wyiHC8AAAIqZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542176333014-32q2upabnm7nf2qh4jsgdn1ku15acv8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
